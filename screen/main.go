@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/mnajj/simple-tetris/tetris"
+	"github.com/mnajj/gTetris/tetris"
 
 	"github.com/nsf/termbox-go"
 )

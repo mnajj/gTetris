@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mnajj/simple-tetris/screen"
-	"github.com/mnajj/simple-tetris/tetris"
+	"github.com/mnajj/gTetris/screen"
+	"github.com/mnajj/gTetris/tetris"
 )
 
 func main() {

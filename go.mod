@@ -1,4 +1,4 @@
-module github.com/mnajj/simple-tetris
+module github.com/mnajj/gTetris
 
 go 1.20
 
